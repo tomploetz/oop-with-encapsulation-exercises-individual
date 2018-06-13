@@ -1,0 +1,10 @@
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\bin\Debug\Exercises.Tests.dll
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\bin\Debug\Exercises.Tests.pdb
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\bin\Debug\Individual.Exercises.exe
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\bin\Debug\Individual.Exercises.pdb
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\bin\Debug\Individual.Exercises.exe.config
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.csprojAssemblyReference.cache
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.csproj.CoreCompileInputs.cache
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.csproj.CopyComplete
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.dll
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.pdb

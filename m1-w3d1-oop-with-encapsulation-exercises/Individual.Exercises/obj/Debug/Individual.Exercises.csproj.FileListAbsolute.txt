@@ -1,0 +1,7 @@
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Individual.Exercises\bin\Debug\Individual.Exercises.exe.config
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Individual.Exercises\bin\Debug\Individual.Exercises.exe
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Individual.Exercises\bin\Debug\Individual.Exercises.pdb
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Individual.Exercises\obj\Debug\Individual.Exercises.csprojAssemblyReference.cache
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Individual.Exercises\obj\Debug\Individual.Exercises.csproj.CoreCompileInputs.cache
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Individual.Exercises\obj\Debug\Individual.Exercises.exe
+C:\Workspace\exercises\m1-w3d1-oop-with-encapsulation-exercises\Individual.Exercises\obj\Debug\Individual.Exercises.pdb
